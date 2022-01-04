@@ -1,17 +1,21 @@
-/*
-	Helios by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+/* Wrapper */
 
-/* Carousel */
+#wrapper {
+  opacity: 1 !important;
+}
 
-	.carousel {
-		overflow-x: auto;
-	}
+/* Overlay */
+
+#overlay {
+  opacity: 1 !important;
+}
 
 /* Header */
 
-	body.homepage.is-preload #header:after {
-		opacity: 0;
-	}
+#header {
+  opacity: 1 !important;
+}
+
+#header nav li {
+  opacity: 1 !important;
+}
